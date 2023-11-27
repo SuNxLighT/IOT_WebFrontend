@@ -5,7 +5,7 @@
 #include <DHT.h>
 
 const char* ssid = "SuN";
-const char* password = "180825450";
+const char* password = "1212312121";
 const char* mqtt_server = "192.168.213.200";
 
 WiFiClient espClient;
